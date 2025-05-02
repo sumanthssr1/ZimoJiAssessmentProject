@@ -1,0 +1,6 @@
+@ZimojiAssessmentProject_HostAddress = http://localhost:5279
+
+GET {{ZimojiAssessmentProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

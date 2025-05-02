@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F919B-1E11-4845-B459-20785362E1EA}|ZimojiAssessmentProjectTest\\ZimojiAssessmentProjectTest.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentprojecttest\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3F919B-1E11-4845-B459-20785362E1EA}|ZimojiAssessmentProjectTest\\ZimojiAssessmentProjectTest.csproj|solutionrelative:zimojiassessmentprojecttest\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\interfaceimplementations\\usertaskimplementations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\interfaceimplementations\\usertaskimplementations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\controllers\\usertaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\controllers\\usertaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\controllers\\availabletaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\controllers\\availabletaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\models\\availabletasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\models\\availabletasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\controllers\\jwtauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\controllers\\jwtauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\interfaces\\iusertaskactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\interfaces\\iusertaskactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\authenticationservice\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\authenticationservice\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\dto\\usettaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\dto\\usettaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\dataaccesslayer\\usertaskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\dataaccesslayer\\usertaskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\authenticationservice\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\authenticationservice\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|c:\\users\\dell\\source\\repos\\zimojiassessmentproject\\zimojiassessmentproject\\models\\usertasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00719CC4-A395-4496-9144-7B61B2BD0E7C}|ZimojiAssessmentProject\\ZimojiAssessmentProject.csproj|solutionrelative:zimojiassessmentproject\\models\\usertasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProjectTest\\UserControllerTests.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProjectTest\\UserControllerTests.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProjectTest\\UserControllerTests.cs",
+              "RelativeToolTip": "ZimojiAssessmentProjectTest\\UserControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:02:10.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\AuthenticationService\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\AuthenticationService\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\AuthenticationService\\AuthenticationService.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\AuthenticationService\\AuthenticationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwv04AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:44:24.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\AuthenticationService\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\AuthenticationService\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\AuthenticationService\\IAuthenticationService.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\AuthenticationService\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:43:40.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Exceptions\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\Exceptions\\CustomExceptions.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Exceptions\\CustomExceptions.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\Exceptions\\CustomExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:40:31.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JWTAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Controllers\\JWTAuthController.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\Controllers\\JWTAuthController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Controllers\\JWTAuthController.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\Controllers\\JWTAuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:37:09.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AvailableTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Controllers\\AvailableTasksController.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\Controllers\\AvailableTasksController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Controllers\\AvailableTasksController.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\Controllers\\AvailableTasksController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:19:37.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsetTaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\DTO\\UsetTaskDTO.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\DTO\\UsetTaskDTO.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\DTO\\UsetTaskDTO.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\DTO\\UsetTaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:19:06.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Controllers\\UserTasksController.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\Controllers\\UserTasksController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Controllers\\UserTasksController.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\Controllers\\UserTasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:00:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:21:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTaskImplementations.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\InterfaceImplementations\\UserTaskImplementations.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\InterfaceImplementations\\UserTaskImplementations.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\InterfaceImplementations\\UserTaskImplementations.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\InterfaceImplementations\\UserTaskImplementations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:42:15.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Program.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Program.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:08:40.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\appsettings.json",
+              "RelativeToolTip": "ZimojiAssessmentProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T07:06:42.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsertaskActions.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Interfaces\\IUsertaskActions.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\Interfaces\\IUsertaskActions.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Interfaces\\IUsertaskActions.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\Interfaces\\IUsertaskActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:00:12.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserTaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\DataAccessLayer\\UserTaskContext.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\DataAccessLayer\\UserTaskContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\DataAccessLayer\\UserTaskContext.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\DataAccessLayer\\UserTaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:55:58.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserTasks.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Models\\UserTasks.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\Models\\UserTasks.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Models\\UserTasks.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\Models\\UserTasks.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:47:55.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvailableTasks.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Models\\AvailableTasks.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\Models\\AvailableTasks.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Models\\AvailableTasks.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\Models\\AvailableTasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:47:07.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "ZimojiAssessmentProject\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ZimojiAssessmentProject\\ZimojiAssessmentProject\\Models\\Users.cs",
+              "RelativeToolTip": "ZimojiAssessmentProject\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:45:18.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

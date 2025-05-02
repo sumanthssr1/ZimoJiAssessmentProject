@@ -1,0 +1,262 @@
+[
+  {
+    "ContainingType": "ZimojiAssessmentProject.Controllers.AvailableTasksController",
+    "Method": "PostAvailableTasks",
+    "RelativePath": "api/AvailableTasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "availableTasks",
+        "Type": "ZimojiAssessmentProject.Models.AvailableTasks",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZimojiAssessmentProject.Models.AvailableTasks",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZimojiAssessmentProject.Controllers.JWTAuthController",
+    "Method": "Login",
+    "RelativePath": "api/JWTAuth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ZimojiAssessmentProject.Controllers.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZimojiAssessmentProject.Controllers.UserController",
+    "Method": "GetTaskByID",
+    "RelativePath": "api/User/taskById/{TaskID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZimojiAssessmentProject.Controllers.UserController",
+    "Method": "GetTasksByUserID",
+    "RelativePath": "api/User/TaskByuserID/{UserID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZimojiAssessmentProject.Controllers.UserTasksController",
+    "Method": "PostUserTasks",
+    "RelativePath": "api/UserTasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userTasks",
+        "Type": "ZimojiAssessmentProject.Models.UserTasks",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZimojiAssessmentProject.Models.UserTasks",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ZimojiAssessmentProject.Models.UserTasksEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapUserTasksEndpoints\u003Eb__0_0",
+    "RelativePath": "api/UserTasks/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ZimojiAssessmentProject.Models.UserTasks, ZimojiAssessmentProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "UserTasks"
+    ],
+    "EndpointName": "GetAllUserTasks"
+  },
+  {
+    "ContainingType": "ZimojiAssessmentProject.Models.UserTasksEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapUserTasksEndpoints\u003Eb__0_3",
+    "RelativePath": "api/UserTasks/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userTasks",
+        "Type": "ZimojiAssessmentProject.Models.UserTasks",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZimojiAssessmentProject.Models.UserTasks",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ],
+    "Tags": [
+      "UserTasks"
+    ],
+    "EndpointName": "CreateUserTasks"
+  },
+  {
+    "ContainingType": "ZimojiAssessmentProject.Models.UserTasksEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapUserTasksEndpoints\u003Eb__0_1",
+    "RelativePath": "api/UserTasks/{id}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usertask_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZimojiAssessmentProject.Models.UserTasks",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ],
+    "Tags": [
+      "UserTasks"
+    ],
+    "EndpointName": "GetUserTasksById"
+  },
+  {
+    "ContainingType": "ZimojiAssessmentProject.Models.UserTasksEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapUserTasksEndpoints\u003Eb__0_2",
+    "RelativePath": "api/UserTasks/{id}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usertask_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "userTasks",
+        "Type": "ZimojiAssessmentProject.Models.UserTasks",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ],
+    "Tags": [
+      "UserTasks"
+    ],
+    "EndpointName": "UpdateUserTasks"
+  },
+  {
+    "ContainingType": "ZimojiAssessmentProject.Models.UserTasksEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapUserTasksEndpoints\u003Eb__0_4",
+    "RelativePath": "api/UserTasks/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usertask_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ],
+    "Tags": [
+      "UserTasks"
+    ],
+    "EndpointName": "DeleteUserTasks"
+  },
+  {
+    "ContainingType": "ZimojiAssessmentProject.Controllers.UserTasksController",
+    "Method": "GetAllUserTasks",
+    "RelativePath": "api/UserTasks/GetAllUserTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

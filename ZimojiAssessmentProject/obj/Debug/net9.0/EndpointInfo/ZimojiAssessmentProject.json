@@ -1,0 +1,260 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "HeyCoach API",
+    "description": "API documentation for HeyCoach Assignment with JWT Authentication",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/UserTask/Users": {
+      "get": {
+        "tags": [
+          "UserTask"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/UserTask/TaskByuserID/{UserID}": {
+      "get": {
+        "tags": [
+          "UserTask"
+        ],
+        "parameters": [
+          {
+            "name": "userid",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/UserTask/taskById/{TaskID}": {
+      "get": {
+        "tags": [
+          "UserTask"
+        ],
+        "parameters": [
+          {
+            "name": "taskid",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/UserTask/AddNewTask": {
+      "post": {
+        "tags": [
+          "UserTask"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AvailableTasks"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AvailableTasks"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AvailableTasks"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/UserTask/MapTaskToUser": {
+      "post": {
+        "tags": [
+          "UserTask"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserTasks"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserTasks"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserTasks"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AvailableTasks": {
+        "required": [
+          "task_Description",
+          "task_Name"
+        ],
+        "type": "object",
+        "properties": {
+          "task_Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "task_Name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "task_Description": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "userTasks": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/UserTasks"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserRole": {
+        "enum": [
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "UserTasks": {
+        "required": [
+          "task_Id",
+          "user_ID"
+        ],
+        "type": "object",
+        "properties": {
+          "userTask_Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "user_ID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "task_Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "user": {
+            "$ref": "#/components/schemas/Users"
+          },
+          "task": {
+            "$ref": "#/components/schemas/AvailableTasks"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Users": {
+        "required": [
+          "role",
+          "user_Address",
+          "user_Email",
+          "user_Name",
+          "user_Password",
+          "user_PhoneNumber"
+        ],
+        "type": "object",
+        "properties": {
+          "user_Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "user_Name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "user_Email": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "user_Password": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "user_PhoneNumber": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "user_Address": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "role": {
+            "$ref": "#/components/schemas/UserRole"
+          },
+          "userTasks": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/UserTasks"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "Enter 'Bearer' [space] and then your token.\nExample: Bearer abc123",
+        "scheme": "Bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}
